@@ -1,0 +1,3 @@
+##Requirements that need to run this script..
+   python 3.0 or above 
+          *mandatory
