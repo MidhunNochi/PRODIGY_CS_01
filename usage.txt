@@ -1,0 +1,12 @@
+Git clone the file https://github.com/MidhunNochi/PRODIGY_CS_01/blob/main/caesar-cipher.py
+
+cd PRODIGY_CS_01
+chmod +x caesar-cipher.py
+use python3 command to run the script in the terminal
+choose what u want to do 
+     ENCRYPTION  = E
+     DECRYPTION  = D
+enter the message that to be encrypted or decrypted
+enter the key or shift to be applied in decrypting or encrypting the message 
+
+     #THE MESSAGE WILL ENCRYPTED OR DECRYPTED 
